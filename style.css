@@ -1,10 +1,13 @@
 body {
-  width: 100%;
+  height: 100vh;
+  width: 100vw;
   height: 1128px;
   margin: 0;
   background-image: url(img/сomponent.png);
   background-repeat: no-repeat;
   background-size: 100% 1128px;
+  max-width: 80vw;
+  max-height: 115vh;
 }
 form{
 flex-direction: column;
