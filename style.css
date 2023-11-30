@@ -6,7 +6,7 @@ body {
   background-image: url(img/сomponent.png);
   background-repeat: no-repeat;
   background-size: 100% 1128px;
-  max-width: 80vw;
+  max-width: 75vw;
   max-height: 115vh;
 }
 form{
@@ -94,6 +94,10 @@ footer {
 }
 .footer{
   position: relative;
-  left: 23%;
+  left: 27%;
   margin-top: 4%;
+}
+
+hr{
+width: 1862px;;
 }
